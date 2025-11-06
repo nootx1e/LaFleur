@@ -29,8 +29,12 @@ body {
 		text-align: center;
 }
  
-p
-{
+p {
+	font-family: "lafleur", sans-serif;
+	font-size: 60px;
+ 	color: lightpink;
+ 	text-align: center;
+}
 
 .LaFleur {
 	font-family: "lafleur", sans-serif;
@@ -47,5 +51,4 @@ p
  	line-height: 1.8;
 }
 
-}
 
